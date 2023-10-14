@@ -1,12 +1,20 @@
 title: Li Yuxuan's Blog
 author: Li Yuxuan
-description: > # description of the site (multiple lines allowed)
-
+description: >
+  A blog about my life and thoughts.
+image:
+  path: /assets/images/cover.jpg # relative path to site's cover image
 url: https://xmliszt.github.io # your website address
 baseurl: /blogs
 permalink: /:slug
 
 favicon: "./favicon.ico" # relative path to site's favicon
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/cover.jpg
 
 twitter:
   username: xmliszt # update or delete this
