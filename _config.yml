@@ -1,6 +1,6 @@
 title: Li Yuxuan's Blog
 author: Li Yuxuan
-url: https://xmliszt.github.io # root address of the site
+url: https://xmliszt.github.io/blogs # root address of the site
 description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug
