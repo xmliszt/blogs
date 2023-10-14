@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello World 🎉"
+tags: introduction, hello
 ---
 
 This is a sample article post about hello world!
