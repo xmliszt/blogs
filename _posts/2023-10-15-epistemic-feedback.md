@@ -10,6 +10,7 @@ tags:
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [The Speed and Repetition of Quizzes](#the-speed-and-repetition-of-quizzes)
+- [Optimal Knowledge Retention: Establishing Connections through Associations](#optimal-knowledge-retention-establishing-connections-through-associations)
 - [Epistemic Feedback vs. Traditional Feedback](#epistemic-feedback-vs-traditional-feedback)
 - [Benefits of Epistemic Feedback](#benefits-of-epistemic-feedback)
 - [Designing an Effective Epistemic Feedback System](#designing-an-effective-epistemic-feedback-system)
@@ -32,6 +33,10 @@ Quizzes, reminiscent of our school days, offer a host of advantages: the element
 Quizzes can be conducted with remarkable swiftness. Consider the familiar _Kahoot!_ game, where participants are under time constraints to provide correct answers. This time pressure prompts learners to actively retrieve knowledge, piecing together accurate responses. A momentary delay in response might mean missing out on the podium.
 
 Furthermore, the brevity of quizzes allows for repeated sessions. By shuffling questions, learners are challenged to understand concepts rather than rote memorization. This prevents over-reliance on a specific order and encourages a deeper, more comprehensive grasp of the material.
+
+## Optimal Knowledge Retention: Establishing Connections through Associations
+
+In an ideal scenario, we aspire for learners to retain specific knowledge by forging diverse associations. This principle finds extensive elaboration in Julie Dirksen's authoritative work, "Design For How People Learn" (For an in-depth exploration, feel free to peruse the book or engage in a discussion via email 😊). Essentially, our objective is to equip learners with the capacity to access information through real-world scenarios, contextual frameworks, or interrelated knowledge constructs. Consider the challenge of comprehending the abstraction concept in software programming. By drawing parallels with tangible examples like the interface of a car dashboard or the blueprint of a building, detailing the path of water pipes and electricity cables, we facilitate a deeper understanding of the abstraction concept. While we could delve further into these examples to elucidate their correlation with "abstraction," it's important to note that this aspect isn't the primary focus of this post. Nevertheless, I welcome further discussion should this pique your interest.
 
 ## Epistemic Feedback vs. Traditional Feedback
 
