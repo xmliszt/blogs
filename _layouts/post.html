@@ -7,9 +7,10 @@ layout: default
 {% include date_and_social_share.html %}
 {{ content }}
 
+{% if page.url != "/about" %}
 <hr />
-
 <p><i>If you like my contents and
   are interested in my projects and visions, feel free to contact me at
   <a href="mailto:xmliszt@gmail.com">xmliszt@gmail.com</a>! I'm always open to
   new ideas and collaborations! 😊</i></p>
+{% endif %}
