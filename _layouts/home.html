@@ -31,6 +31,14 @@ layout: default
 <h2>{{ site.theme_config.home.title_old_projects }}</h2>
 {% include card_list.html collection=site.data.home.old_project_entries %} {%
 endif %} {% if site.theme_config.show_footer == true %}
+<iframe
+  src="https://liyuxuan.substack.com/embed"
+  width="100%"
+  height="320"
+  style="border: 1px solid #eee; border-radius: 10px"
+  frameborder="0"
+  scrolling="no"
+></iframe>
 <footer>
   <div class="dashed"></div>
   {% include horizontal_list.html collection=site.data.home.footer_entries %}

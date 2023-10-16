@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<a href="{{ " /blog" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
 <h1 class="post-title">{{ page.title }}</h1>
 {% include date_and_social_share.html %}
 {{ content }}
@@ -10,8 +10,16 @@ layout: default
 {% if page.url != "/about" %}
 <hr />
 <p><i>If you like my contents and
-    are interested in my projects and visions, feel free to contact me at
-    <a href="mailto:xmliszt@gmail.com">xmliszt@gmail.com</a>! I'm always open to
-    new ideas and collaborations! 😊</i></p>
+        are interested in my projects and visions, feel free to contact me at
+        <a href="mailto:xmliszt@gmail.com">xmliszt@gmail.com</a>! I'm always open to
+        new ideas and collaborations! 😊</i></p>
 <p> I also blog on <a href="https://medium.com/@xmliszt">Medium</a>!</p>
+<iframe
+  src="https://liyuxuan.substack.com/embed"
+  width="100%"
+  height="320"
+  style="border: 1px solid #eee; border-radius: 10px"
+  frameborder="0"
+  scrolling="no"
+></iframe>
 {% endif %}
