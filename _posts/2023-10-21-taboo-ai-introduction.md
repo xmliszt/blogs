@@ -1,5 +1,5 @@
 ---
-title: "Learn English through knowledge assocations and conversation with Taboo AI"
+title: "Taboo AI: Revolutionizing English Learning with Engaging Gameplay"
 tags:
   - edtech
   - knowledge associations
