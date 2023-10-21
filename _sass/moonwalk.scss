@@ -110,10 +110,10 @@ img {
     --highlight: #41c7c7;
     --bg: #1e3136;
     --bg-secondary: #323945;
-    --text: #adb5bd;
-    --text-secondary: #9ca3af;
+    --text: #d7d7d7;
+    --text-secondary: #dbdbdb;
     --code-text: #91a7ff;
-    --share-text: #c4c4c4;
+    --share-text: #dedede;
   }
 }
 
@@ -217,6 +217,7 @@ mark {
 }
 
 .post-date {
+  font-weight: normal !important;
   color: var(--text-secondary);
   margin-top: 1rem;
   font-size: 0.7em;
@@ -270,7 +271,7 @@ li code {
   border-radius: 1em;
   background-color: var(--bg-secondary);
   font-size: 0.7em;
-  font-weight: bold;
+  font-weight: normal;
   text-transform: lowercase;
   //border: 1px solid var(--text-secondary);
 }
