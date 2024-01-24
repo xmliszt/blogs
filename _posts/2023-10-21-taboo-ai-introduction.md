@@ -88,8 +88,8 @@ Speaking about immersive conversation with scenarios, which is a great way to pr
 
 ---
 
-Thank you so much for reading till the end! I'm very proud to present [Taboo AI](https://taboo-ai.vercel.app) to you and I hope it can help you with your English learning in one way or another! By the way, I will keep posting #EdTech related blogs every week on my blog and SubStack channel "**EdTech Solutions**".
+Thank you so much for reading till the end! I'm very proud to present [Taboo AI](https://taboo-ai.vercel.app) to you and I hope it can help you with your English learning in one way or another! By the way, I will keep posting #EdTech related blogs every week on my blog and SubStack channel "**AI & Creative Learning**".
 
-Also, I will post any new updates about [Taboo AI](https://taboo-ai.vercel.app) as well. So if you like my content, passionate about #EdTech, and interested to find out more about [Taboo AI](https://taboo-ai.vercel.app) or just #EdTech in general, do consider subscribe to my [newsletter](https://liyuxuan.substack.com/subscribe) and visit my [blog](https://xmliszt.github.io/blogs).
+Also, I will post any new updates about [Taboo AI](https://taboo-ai.vercel.app) as well. So if you like my content, passionate about #EdTech, and interested to find out more about [Taboo AI](https://taboo-ai.vercel.app) or just #EdTech in general, do consider subscribe to my [newsletter](https://liyuxuan.substack.com/subscribe) and visit my [blog](https://liyuxuan.dev/blogs).
 
 And don't forget to give [Taboo AI](https://taboo-ai.vercel.app) a try 😉 and let me know if there is any feedback and improvements! Cheers!

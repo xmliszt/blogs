@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
   - title: portfolio
-    url: https://xmliszt.github.io
+    url: https://liyuxuan.dev
 
 project_entries:
   - title: Taboo AI
@@ -29,7 +29,7 @@ old_project_entries:
 
 footer_entries:
   - title: Li Yuxuan's Portfolio Website
-    url: https://xmliszt.github.io
+    url: https://liyuxuan.dev
 
   - title: read.cv
     url: https://read.cv/liyuxuan

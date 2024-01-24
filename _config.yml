@@ -4,7 +4,7 @@ description: >
   Hi! I'm Li Yuxuan. I talk about edtech and how we can harness the power of technology to empower personalized and enjoyable learning experiences.
 image:
   path: /assets/images/cover.jpg # relative path to site's cover image
-url: https://xmliszt.github.io # your website address
+url: https://liyuxuan.dev # your website address
 baseurl: /blogs
 permalink: /:slug
 

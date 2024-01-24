@@ -16,6 +16,6 @@ Through my blog, I'll be sharing insights, discoveries, and valuable resources r
 
 I believe that in this fast-paced world, staying updated with the latest trends and technologies is crucial. By keeping up with my blog, you'll gain access to a treasure trove of information that can amplify your learning experience. 🚀📰
 
-I'm excited to share more about the incredible advancements and opportunities that EdTech brings. Together, let's shape a future where learning knows no bounds! Click [here](https://xmliszt.github.io/blogs/blog) to explore my blog posts and join me in this educational odyssey. 🌟📚
+I'm excited to share more about the incredible advancements and opportunities that EdTech brings. Together, let's shape a future where learning knows no bounds! Click [here](https://liyuxuan.dev/blogs/blog) to explore my blog posts and join me in this educational odyssey. 🌟📚
 
 Happy learning! 🎉
