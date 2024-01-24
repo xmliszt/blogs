@@ -1,0 +1,14 @@
+{
+  "target": "Captain America",
+  "taboos": ["shield", "america", "captain", "hero", "marvel", "brave"],
+  "conversation": [
+    {
+      "role": "user",
+      "content": "漫威里美国队长英文怎么说"
+    },
+    {
+      "role": "assistant",
+      "content": "Captain America"
+    }
+  ]
+}
